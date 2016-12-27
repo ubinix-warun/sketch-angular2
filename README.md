@@ -1,4 +1,4 @@
-Clone from "Angular QuickStart"
+#Clone from "Angular QuickStart" and "npm install; npm start"
 
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
